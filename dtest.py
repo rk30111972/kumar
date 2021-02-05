@@ -5,3 +5,5 @@ print(a+b)
 print("I am in between")
 for i in range(1,6):
     print(i)
+    print("I Love India")
+print("I hate black hats")
